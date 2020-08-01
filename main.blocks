@@ -1,0 +1,18 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="d2u0G%u9zk4D@eqV+%c]">my_sprite</variable></variables><block type="pxt-on-start" id="NB79hbp2b+z{)9q93F)d" x="0" y="0"><statement name="HANDLER"><block type="variables_set" id="%[mGq,6/I}I06?Ipi.vE"><field name="VAR" id="d2u0G%u9zk4D@eqV+%c]">my_sprite</field><value name="VALUE"><shadow type="math_number"><field name="NUM">0</field></shadow><block type="spritescreate" id="7UGADTFIx5o5Mn%uAJ+V"><value name="img"><shadow type="screen_image_picker" id="g?Zp#SOeYRgyz6~qr:4l"><field name="img">img`
+. . . . . . . . . . . . . . . . 
+. . . . . . 4 4 . . . . . . . . 
+. . . . . 4 4 4 4 . . . . . . . 
+. . . . . f 4 4 f . . . . . . . 
+. . . . . 4 4 4 4 . . . . . . . 
+. . . . . 4 4 4 4 . . . . . . . 
+. . . . . 4 4 4 4 . . . . . . . 
+. . . . f 4 4 4 4 f . . . . . . 
+. . . . f f 4 4 f f . . . . . . 
+. . . . f 4 f f 4 f . . . . . . 
+. . . . f 4 4 4 4 f . . . . . . 
+. . . . f 4 4 4 4 f . . . . . . 
+. . . . . f 4 4 f . . . . . . . 
+. . . . . f . . f . . . . . . . 
+. . . . . f . . f . . . . . . . 
+. . . . . f . . f . . . . . . . 
+`</field></shadow></value></block></value></block></statement></block></xml>
